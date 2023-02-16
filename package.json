@@ -1,0 +1,9 @@
+{
+  "name": "mdc-jsserver",
+  "version": "1.0.0",
+  "main": "server.js", 
+  "keywords": [],
+  "author": "kduraikannu",
+  "license": "ISC",
+  "description": "Sample JS node server" 
+}
