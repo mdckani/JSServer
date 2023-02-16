@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Send emails to client",
+        "description": "Answer mails and check status of the applications",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Arrange team meeting",
+        "description": "Arrange a status meeting with team",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Call inventory",
+        "description": "Discuss the stock status",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Setup Team Event",
+        "description": "Plan the team event and book location",
+        "completed": false
+    }
+]

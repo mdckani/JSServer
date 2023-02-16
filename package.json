@@ -1,9 +1,13 @@
 {
   "name": "mdc-jsserver",
   "version": "1.0.0",
-  "main": "server.js", 
+  "main": "app.js",
   "keywords": [],
   "author": "kduraikannu",
   "license": "ISC",
-  "description": "Sample JS node server" 
+  "scripts": {
+    "test": "echo \"No test setup && exit 1\"",
+    "start":"node app.js"
+  },
+  "description": "Sample JS node server"
 }
